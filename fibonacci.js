@@ -9,10 +9,3 @@ function fib(num) {
         return fib(num - 2) + fib(num - 1);
     }
 }
-
-let person = {
-    name: "Steven",
-    age: 13,
-}
-
-person.age
